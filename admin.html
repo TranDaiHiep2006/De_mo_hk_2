@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Admin Panel</title>
+        <script src="./js/admin.js" defer></script>
+    </head>
+    <body>
+        <h1>Admin Panel</h1>
+        <div>
+            <input type="text" id="product-name" placeholder="Tên sản phẩm" />
+            <input type="number" id="product-price" placeholder="Giá" />
+            <input type="text" id="product-image" placeholder="URL hình ảnh" />
+            <button onclick="addProduct()">Thêm sản phẩm</button>
+        </div>
+        <h2>Sản phẩm hiện tại</h2>
+        <ul id="product-list"></ul>
+    </body>
+</html>

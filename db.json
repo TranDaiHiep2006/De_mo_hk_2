@@ -1,0 +1,17 @@
+{
+  "products": [
+    {
+      "id": "75b1",
+      "name": "Điện thoại khủng bố",
+      "price": 9999999,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ6Ok2I8YkfgsREnZd73wTbsX3DRYfybOohV2lree61Vg7ukFHDXJ_2FNmKYtfpXFLowRrsLZhIy1fGSHEhgd2nWYNqAAv091dHjTo-bPGjBrx6lhAOxHUM&usqp=CAE"
+    },
+    {
+      "id": "57be",
+      "name": "Than thanh dat",
+      "price": 1,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ6Ok2I8YkfgsREnZd73wTbsX3DRYfybOohV2lree61Vg7ukFHDXJ_2FNmKYtfpXFLowRrsLZhIy1fGSHEhgd2nWYNqAAv091dHjTo-bPGjBrx6lhAOxHUM&usqp=CAE"
+    }
+  ],
+  "cart": []
+}
